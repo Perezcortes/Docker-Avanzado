@@ -1,5 +1,3 @@
-Claro, aquí tienes un Markdown más detallado con ejemplos para cada pregunta. A continuación, te proporcionaré también los fragmentos de código por separado.
-
 ```markdown
 # Preguntas y respuestas detalladas sobre Docker
 
