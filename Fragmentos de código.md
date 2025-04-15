@@ -1,5 +1,3 @@
-Aquí tienes los fragmentos de código que mencioné en las respuestas anteriores. Puedes usarlos para entender cómo aplicar cada práctica y ejemplo:
-
 ### 1. Escanear una imagen usando Trivy
 ```bash
 # Escanear una imagen con Trivy para vulnerabilidades
@@ -143,5 +141,3 @@ docker run -d -p 80:80 my-container
   "dockerFile": "Dockerfile"
 }
 ```
-
-Espero que estos fragmentos de código te ayuden a aplicar las prácticas recomendadas en Docker. Si tienes alguna pregunta sobre algún fragmento o necesitas más detalles, no dudes en preguntar.
